@@ -1,0 +1,71 @@
+  [{
+    "chatid": "0001",
+    "text_content": [
+      {
+        "t1":
+          "Hi! I'm Olivia, your personal Paradox job assistant. Thank you for your interest. We are looking for great talent for many types of jobs. To get started, can you please provide me with your first and last name?"
+      },
+      {
+        "t2":
+          "Hi! I'm Olivia, your personal Paradox job assistant. Thank you for your interest. We are looking for great talent for many types of jobs. Are you still interested in the position?"
+      },
+      {
+        "t3":
+          "Hi! I'm Olivia, your personal Paradox job assistant. Thank you for your interest in our Veterinarian position. We have some questions for you! To get started, can you please provide me with your first and last name?"
+      }
+    ],
+    "numeric_content": [
+      { "n1": "How many years of Truck Driving experience do you have?" },
+      { "n2": "On a scale of 1-10, rate your affection to farm animals" },
+      { "n2": "From 1 to 10, how would you rate the process so far?" }
+    ],
+    "multiple_content": [
+      { "m1": "Do you perfome well in a team?" },
+      {
+        "m2":
+          "Would you say you care about the effect of the trucking industry on global warming?"
+      },
+      { "m3": "Do you have any experience as a veterinarian?" }
+    ],
+    "answers": [
+      { "m1": ["yes,no,maybe,sometimes"] },
+      { "m2": ["yes,no,not always,sometimes"] }
+    ]
+  },
+  {
+    "chatid": "0002",
+    "text_content": [
+      {
+        "t1":
+          "Hi! I'm Olivia, your personal Paradox job assistant. Thank you for your interest. We are looking for great talent for many types of jobs. To get started, can you please provide me with your first and last name?"
+      },
+      {
+        "t2":
+          "Hi! I'm Olivia, your personal Paradox job assistant. Thank you for your interest. We are looking for great talent for many types of jobs. Are you still interested in the position?"
+      },
+      {
+        "t3":
+          "Hi! I'm Olivia, your personal Paradox job assistant. Thank you for your interest in our Veterinarian position. We have some questions for you! To get started, can you please provide me with your first and last name?"
+      }
+    ],
+    "numeric_content": [
+      { "n1": "How many years of Truck Driving experience do you have?" },
+      { "n2": "On a scale of 1-10, rate your affection to farm animals" },
+      { "n2": "From 1 to 10, how would you rate the process so far?" }
+    ],
+    "multiple_content": [
+      { "m1": "Do you perfome well in a team?" },
+      {
+        "m2":
+          "Would you say you care about the effect of the trucking industry on global warming?"
+      },
+      { "m3": "Do you have any experience as a veterinarian?" }
+    ],
+    "answers": [
+      { "m1": ["yes,no,maybe,sometimes"] },
+      { "m2": ["yes,no,not always,sometimes"] }
+    ]
+  }
+  ]
+
+
